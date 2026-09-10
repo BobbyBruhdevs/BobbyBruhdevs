@@ -31,6 +31,8 @@ I enjoy building clean, efficient resources, creating modern interfaces, and sol
 
 Isaiah 46:4: “Even to your old age and gray hairs, I AM he, I AM he who will sustain you.”
 
+---
+
 </div>
 
 
