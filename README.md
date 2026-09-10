@@ -25,19 +25,15 @@ I enjoy building clean, efficient resources, creating modern interfaces, and sol
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-</div>
-<!-- DAILY_VERSE_START -->
-
-## ✝️ Daily Scripture
-
 <div align="center">
 
-### [Philippians 4:13 — RSVCE](https://www.biblegateway.com/passage/?search=Philippians+4%3A13&version=RSVCE)
+## ✝️ Daily Bible Verse
 
-*Click the passage to read it in the Revised Standard Version Catholic Edition.*
+<a href="https://cirizzil.github.io/DailyBibleVerse/">
+  <img src="https://img.shields.io/badge/Read_Today's_Bible_Verse-22D3EE?style=for-the-badge&logo=bookstack&logoColor=white" alt="Daily Bible Verse">
+</a>
 
 </div>
-<!-- DAILY_VERSE_END -->
 
 
 ### Thanks for visiting my profile!
