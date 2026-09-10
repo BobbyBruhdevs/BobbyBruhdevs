@@ -27,11 +27,9 @@ I enjoy building clean, efficient resources, creating modern interfaces, and sol
 
 <div align="center">
 
-## ✝️ Daily Bible Verse
+## ☦️ Daily Bible Verse
 
-<a href="https://cirizzil.github.io/DailyBibleVerse/">
-  <img src="https://img.shields.io/badge/Read_Today's_Bible_Verse-22D3EE?style=for-the-badge&logo=bookstack&logoColor=white" alt="Daily Bible Verse">
-</a>
+Isaiah 46:4: “Even to your old age and gray hairs, I AM he, I AM he who will sustain you.”
 
 </div>
 
