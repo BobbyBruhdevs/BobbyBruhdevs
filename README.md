@@ -26,42 +26,23 @@ I enjoy building clean, efficient resources, creating modern interfaces, and sol
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 </div>
+<!-- DAILY_VERSE_START -->
 
-## GitHub Statistics
+## ✝️ Daily Scripture
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BobbyBruhdevs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bobby's GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyBruhdevs&layout=compact&theme=tokyonight&hide_border=true" alt="Bobby's most-used languages">
+### [Philippians 4:13 — RSVCE](https://www.biblegateway.com/passage/?search=Philippians+4%3A13&version=RSVCE)
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=BobbyBruhdevs&theme=tokyonight&hide_border=true" alt="Bobby's GitHub contribution streak">
+*Click the passage to read it in the Revised Standard Version Catholic Edition.*
 
 </div>
+<!-- DAILY_VERSE_END -->
 
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BobbyBruhdevs&theme=tokyo-night&hide_border=true&area=true" alt="Bobby's GitHub activity graph">
-
-</div>
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BobbyBruhdevs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Bobby's GitHub trophies">
-
-</div>
-
----
-
-<div align="center">
 
 ### Thanks for visiting my profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BobbyBruhdevs\&color=22d3ee\&style=for-the-badge\&label=PROFILE+VIEWS)
 
 </div>
+
